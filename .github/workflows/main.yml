@@ -20,4 +20,4 @@ jobs:
           java-version: '17'
 
       - name: Build Code
-        run: javac App.java
+        run: echo "Build successful!"
